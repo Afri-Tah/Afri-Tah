@@ -53,7 +53,7 @@ Running a personalized tutoring initiative based in Dhaka, helping students stre
 
 | Project | Description |
 |---------|-------------|
-| 🌐 [StudySphere](https://www.facebook.com/studysphere2.0) | Live tutoring platform I built and run — real users, real impact |
+| 🌐 StudySphere-Website | Live tutoring platform I built and run — real users, real impact |
 | 📖 EWU Library Management System | PHP & MySQL library management system |
 | 📊 Algorithm Visualizer | Interactive visualization of sorting & searching algorithms |
 
