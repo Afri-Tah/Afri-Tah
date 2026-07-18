@@ -41,11 +41,18 @@ intelligent, scalable, and user-centered applications.
 
 ---
 
+## Experience
+
+**Tutor & Founder — StudySphere**
+Running a personalized tutoring initiative based in Dhaka, helping students strengthen their academic foundations through one-on-one and group guidance.
+🔗 [facebook.com/studysphere2.0](https://www.facebook.com/studysphere2.0)
+
+---
+
 ## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 📚 StudySphere | Educational platform focused on interactive learning |
 | 📖 EWU Library Management System | PHP & MySQL library management system |
 | 📊 Algorithm Visualizer | Interactive visualization of sorting & searching algorithms |
 | 🗂 Student Record System | Linked List implementation in C |
@@ -73,12 +80,12 @@ intelligent, scalable, and user-centered applications.
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Afri-Tah&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afri-Tah&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Afri-Tah&show_icons=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afri-Tah&layout=compact"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afri-Tah&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afri-Tah"/>
 </p>
 
 ---
