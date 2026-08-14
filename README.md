@@ -16,12 +16,12 @@ intelligent, scalable, and user-centered applications.
 
 ## About Me
 
-- 🎓 Computer Science student at **East West University**
-- 💻 Building software projects and learning through practice
-- 📚 Currently learning **JavaScript**, **Database Systems**, and **Data Structures & Algorithms**
-- 🎯 Planning to specialize in **Data Science & Artificial Intelligence**
-- 🧩 Passionate about writing clean, maintainable software
-- 🚀 Always looking for opportunities to learn and build
+-  Computer Science student at **East West University**
+-  Building software projects and learning through practice
+-  Currently learning **JavaScript**, **Database Systems**, and **Data Structures & Algorithms**
+-  Planning to specialize in **Data Science & Artificial Intelligence**
+-  Passionate about writing clean, maintainable software
+-  Always looking for opportunities to learn and build
 
 ---
 
