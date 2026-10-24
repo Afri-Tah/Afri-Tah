@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<a href="https://afri-tah.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-afri--tah.github.io-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=githubpages&logoColor=00f0ff" alt="Portfolio" /></a>
-<a href="https://codeforces.com/profile/Afri_Tahsin_21"><img src="https://img.shields.io/badge/CODEFORCES-Afri__Tahsin__21-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=codeforces&logoColor=00f0ff" alt="Codeforces" /></a>
-<a href="https://www.hackerrank.com/profile/atworkafrida"><img src="https://img.shields.io/badge/HACKERRANK-atworkafrida-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=hackerrank&logoColor=00f0ff" alt="HackerRank" /></a>
-<a href="https://www.facebook.com/afridatahsin.21"><img src="https://img.shields.io/badge/FACEBOOK-afridatahsin.21-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=facebook&logoColor=00f0ff" alt="Facebook" /></a>
+<a href="https://afri-tah.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-afri--tah.github.io-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=githubpages&logoColor=00f0ff" alt="Portfolio" /></a>
+<a href="https://codeforces.com/profile/Afri_Tahsin_21"><img src="https://img.shields.io/badge/CODEFORCES-Afri__Tahsin__21-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=codeforces&logoColor=00f0ff" alt="Codeforces" /></a>
+<a href="https://www.hackerrank.com/profile/atworkafrida"><img src="https://img.shields.io/badge/HACKERRANK-atworkafrida-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=hackerrank&logoColor=00f0ff" alt="HackerRank" /></a>
+<a href="https://www.facebook.com/afridatahsin.21"><img src="https://img.shields.io/badge/FACEBOOK-afridatahsin.21-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=facebook&logoColor=00f0ff" alt="Facebook" /></a>
 
 </div>
 
@@ -58,14 +58,14 @@ I learn by building. My work centers on strengthening software engineering found
       <b>StudySphere Website</b><br/>
       <sub>PRODUCTION</sub><br/><br/>
       Live tutoring platform that I built and run, with real users.<br/><br/>
-      <a href="https://github.com/Afri-Tah/StudySphere-Website"><img src="https://img.shields.io/badge/SOURCE-StudySphere--Website-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=github&logoColor=00f0ff" alt="StudySphere source" /></a>
+      <a href="https://github.com/Afri-Tah/StudySphere-Website"><img src="https://img.shields.io/badge/SOURCE-StudySphere--Website-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=github&logoColor=00f0ff" alt="StudySphere source" /></a>
     </td>
     <td width="50%" valign="top">
       <b>EWU Library Management System</b><br/>
       <sub>PHP / MYSQL</sub><br/><br/>
       Library management system with a relational database backend.<br/><br/>
-      <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=php&logoColor=00f0ff" alt="PHP" />
-      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=mysql&logoColor=00f0ff" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=php&logoColor=00f0ff" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=mysql&logoColor=00f0ff" alt="MySQL" />
     </td>
   </tr>
   <tr>
@@ -73,13 +73,13 @@ I learn by building. My work centers on strengthening software engineering found
       <b>Algorithm Visualizer</b><br/>
       <sub>JAVASCRIPT</sub><br/><br/>
       Interactive visualization of sorting and searching algorithms.<br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=javascript&logoColor=00f0ff" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=javascript&logoColor=00f0ff" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
       <b>Student Record System</b><br/>
       <sub>C / DATA STRUCTURES</sub><br/><br/>
       Student record management built on linked lists in C.<br/><br/>
-      <a href="https://github.com/Afri-Tah/Student-Record-System-using-LinkedList-in-C"><img src="https://img.shields.io/badge/SOURCE-LinkedList--in--C-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff&logo=c&logoColor=00f0ff" alt="Student Record System source" /></a>
+      <a href="https://github.com/Afri-Tah/Student-Record-System-using-LinkedList-in-C"><img src="https://img.shields.io/badge/SOURCE-LinkedList--in--C-0d1117?style=flat-square&labelColor=0d1117&color=0b3a4a&logo=c&logoColor=00f0ff" alt="Student Record System source" /></a>
     </td>
   </tr>
 </table>
@@ -118,10 +118,6 @@ Running a personalized tutoring initiative that helps students strengthen their 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Afri-Tah&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F0FF&sideLabels=8B949E&dates=8B949E" alt="Contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afri-Tah&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
