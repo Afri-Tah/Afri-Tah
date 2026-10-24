@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a2e2a&height=150&section=header&text=AFRIDA%20TAHSIN&fontSize=44&fontColor=00ff9c&fontAlignY=45&desc=COMPUTER%20SCIENCE%20%26%20ENGINEERING%20%40%20EAST%20WEST%20UNIVERSITY&descSize=14&descColor=8b949e&descAlignY=72" alt="Afrida Tahsin" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0a2e2a,100:00ff9c&height=200&section=header&text=AFRIDA%20TAHSIN&fontSize=50&fontColor=00ff9c&fontAlignY=40&desc=COMPUTER%20SCIENCE%20AND%20ENGINEERING%20%7C%20EAST%20WEST%20UNIVERSITY&descSize=15&descColor=c9d1d9&descAlignY=62" alt="Afrida Tahsin" />
 
 </div>
 
@@ -93,6 +92,6 @@ Running a personalized tutoring initiative that helps students strengthen their 
 
 <sub>Open to learning opportunities, collaborations, and building things that matter.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2e2a,100:0d1117&height=60&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,40:0a2e2a,100:0d1117&height=100&section=footer" alt="" />
 
 </div>
