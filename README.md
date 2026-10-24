@@ -35,18 +35,9 @@ I learn by building. My work centers on strengthening software engineering found
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js,php,mysql&theme=dark" alt="Languages and web" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,php,mysql,git,github,vscode&theme=dark&perline=10" alt="Tech stack: Java, C, JavaScript, HTML, CSS, PHP, MySQL, Git, GitHub, VS Code" />
 
 </div>
-
-| Layer | Technologies |
-|:--|:--|
-| Languages | Java, C, JavaScript, PHP |
-| Web | HTML, CSS, JavaScript |
-| Data | MySQL |
-| Tooling | Git, GitHub, VS Code |
 
 <br/>
 
