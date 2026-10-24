@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0a2e2a,100:00ff9c&height=200&section=header&text=AFRIDA%20TAHSIN&fontSize=50&fontColor=00ff9c&fontAlignY=40&desc=COMPUTER%20SCIENCE%20AND%20ENGINEERING%20%7C%20EAST%20WEST%20UNIVERSITY&descSize=15&descColor=c9d1d9&descAlignY=62" alt="Afrida Tahsin" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0a2e2a,100:00ff9c&height=200&section=header&text=AFRIDA%20TAHSIN&fontSize=50&fontColor=00ff9c&fontAlignY=40&desc=COMPUTER%20SCIENCE%20AND%20ENGINEERING%20%7C%20EAST%20WEST%20UNIVERSITY&descSize=15&descColor=c9d1d9&descAlignY=62&animation=fadeIn" alt="Afrida Tahsin" />
 
 </div>
 
-```text
-[ OK ]  boot sequence complete
-[ OK ]  user        afrida.tahsin
-[ OK ]  focus       software engineering -> data science & ai
-[ OK ]  project     studysphere, live tutoring platform
-[ OK ]  status      building, learning, shipping
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1100&color=00FF9C&center=true&vCenter=true&width=760&height=56&lines=Hi%2C+I'm+Afrida+Tahsin;CSE+student+at+East+West+University;I+turn+ideas+into+working+software;Founder+of+StudySphere%2C+a+live+tutoring+platform;Learning+my+way+into+Data+Science+and+AI;Clean+code.+Real+projects.+Always+learning." alt="Hi, I'm Afrida Tahsin. CSE student at East West University. Founder of StudySphere. Learning my way into Data Science and AI." />
+
+</div>
 
 <div align="center">
 
